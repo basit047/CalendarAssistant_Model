@@ -3,3 +3,4 @@ gunicorn
 joblib          # or pickle, numpy, etc., depending on how your model is saved
 scikit-learn    # if you're using a scikit-learn model
 transformers
+torch
